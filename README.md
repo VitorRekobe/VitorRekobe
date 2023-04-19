@@ -7,7 +7,8 @@
 - 😄 Pronomes: ele/dele
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRekobe&show_icons=true&theme=dracula)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorRekobe)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
