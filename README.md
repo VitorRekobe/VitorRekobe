@@ -8,7 +8,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
