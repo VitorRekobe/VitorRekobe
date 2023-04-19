@@ -9,7 +9,7 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&count=8=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&hide=javascript,html=true&langs_count=8)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
