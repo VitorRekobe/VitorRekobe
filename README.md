@@ -9,7 +9,7 @@
 ##
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height: 25vh; width: auto;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical" />
  <img class="img" style="height: 25vh; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&layout=compact&langs_count=4" />
 </div>
 
