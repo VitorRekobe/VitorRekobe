@@ -20,8 +20,7 @@
   
   ##
   
-   <img align="right" alt="Vitor" height="120" width="120" src="https://discordapp.com/channels/708035141548769320/708035141548769323/1098322023467454524/vitogit.gif">
-   <img align="right" alt="Gab-Gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/1093706408354119754/1093708014550274121/gabbgit.gif">
+   <img align="right" alt="Vitor" height="120" width="120" src="https://discordapp.com/channels/708035141548769320/708035141548769323/1098322023467454524/VitorRekobEgit.gif">
 
  
 <div> 
