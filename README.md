@@ -19,6 +19,9 @@
 </div>
   
   ##
+  
+   <img align="right" alt="Vitor-Gif" height="120" width="120" src="https://discordapp.com/channels/708035141548769320/708035141548769323/1098320076404437102">
+
  
 <div> 
   <a href="https://www.instagram.com/vitor_rekobe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
