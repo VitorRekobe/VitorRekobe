@@ -1,10 +1,10 @@
 ## Oi, sou Vitor Gabriel
 
-- 🔭 Atualmente estou estudando tecnico ADS no Senai
-- 🌱 Estudando React Js
-- 🎃 Atualmente fazendo um e-ecommerce
-- 📫 Email de Contata: vitorgabrielsalesgarcia7@gmail.com
-- 😄 Pronomes: ele/dele
+- 📚 Atualmente estou estudando tecnico ADS no Senai
+- 📓 Estudando React Js
+- 💻 Atualmente fazendo um e-ecommerce como tcc
+- 📫 Email de Contato: vitorgabrielsalesgarcia7@gmail.com
+- ♂️ Pronomes: ele/dele
 
 ##
 
