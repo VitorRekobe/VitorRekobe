@@ -11,6 +11,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&layout=compact&langs_count=4)
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical" />
+ <img class="img" style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&layout=compact&langs_count=4" />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
