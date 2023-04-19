@@ -20,7 +20,7 @@
   
   ##
   
-   <img align="right" alt="Vitor" height="120" width="120" src="https://discordapp.com/channels/708035141548769320/708035141548769323/1098320076404437102">
+   <img align="right" alt="Vitor" height="120" width="120" src="https://discordapp.com/channels/708035141548769320/708035141548769323/1098320076404437102/vitorgit">
 
  
 <div> 
