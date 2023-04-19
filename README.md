@@ -8,12 +8,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&layout=compact&langs_count=4)
-
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRekobe&show_icons=true&theme=radical" />
- <img class="img" style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&layout=compact&langs_count=4" />
+ <img class="img" style="height: 50%; width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRekobe&theme=radical&layout=compact&langs_count=4" />
 </div>
 
 <div style="display: inline_block"><br>
