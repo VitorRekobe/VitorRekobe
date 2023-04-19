@@ -9,7 +9,6 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRekobe&show_icons=true&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorRekobe)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,3 +24,5 @@
   <a href = "mailto:vitorgabrielsalesgarcia7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-gabriel-s-garcia-4578b6222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake gif](https://github.com/GabbAlves/GabbAlves/blob/output/github-contribution-grid-snake.svg)
